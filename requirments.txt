@@ -1,0 +1,7 @@
+Link to the data and APIS
+
+https://data.stadt-zuerich.ch/dataset/geo_standorte_der_automatischen_fuss__und_velozaehlungen
+https://opendatadocs.meteoswiss.ch/de/a-data-groundbased/a1-automatic-weather-stations
+https://data.stadt-zuerich.ch/dataset/ted_taz_verkehrszaehlungen_werte_fussgaenger_velo
+https://opendatadocs.meteoswiss.ch/de/a-data-groundbased/a1-automatic-weather-stations
+https://opendatadocs.meteoswiss.ch/de/a-data-groundbased/a1-automatic-weather-stations
