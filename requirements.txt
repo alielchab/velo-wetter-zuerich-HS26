@@ -5,3 +5,10 @@ https://opendatadocs.meteoswiss.ch/de/a-data-groundbased/a1-automatic-weather-st
 https://data.stadt-zuerich.ch/dataset/ted_taz_verkehrszaehlungen_werte_fussgaenger_velo
 https://opendatadocs.meteoswiss.ch/de/a-data-groundbased/a1-automatic-weather-stations
 https://opendatadocs.meteoswiss.ch/de/a-data-groundbased/a1-automatic-weather-stations
+
+
+Abgabe:
+
+Präsentation PDF	Forschungsfrage, Methoden, Resultate, Fazit, AI-Reflexion und Bewertungsnachweise
+ZIP-Datei	Projektdaten, Jupyter Notebooks und benötigter Code
+MP4-Video	Aufzeichnung der Abschlusspräsentation
